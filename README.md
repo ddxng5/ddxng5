@@ -10,8 +10,7 @@
 > ####  [**_menlo-robotics_**](https://github.com/ddxng5/menlo-robotics) <sub><sup>2026.06 – 2026.07</sup></sub>
   LLM이 판단하고 코드가 실행하는 큐브 분류 로봇 에이전트 <sub>· 팀 워크숍, Level 0 에이전트 담당</sub>
 
-> ####  [**_Smart Car Garage_**](https://github.com/ddxng5/smartcargarage) <sub><sup>2025</sup></sub>
-  <!-- TODO(확인 필요): 개발 기간을 2025.xx – 2025.xx 형식으로 바꿔 주세요 -->
+> ####  [**_Smart Car Garage_**](https://github.com/ddxng5/smartcargarage) <sub><sup>2025.09 – 2025.12</sup></sub>
   라즈베리파이 기반 주차 보조 및 차고 환경 모니터링 IoT 시스템
 
 > ####  [**_RecycleHelper_**](https://github.com/ddxng5/RecycleHelper) <sub><sup>2026.05 – 2026.06</sup></sub>
