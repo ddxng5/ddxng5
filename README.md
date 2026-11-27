@@ -7,7 +7,7 @@
 > ####  [**_PosNexa_**](https://github.com/ddxng5/PosNexa) <sub><sup>2026.01 – 2026.02</sup></sub>
   역할별 화면을 나눈 음식점 주문·결제·매출 관리 POS 시스템
 
-> ####  [**_menlo-robotics_**](https://github.com/ddxng5/menlo-robotics) <sub><sup>2026.06 – 2026.07</sup></sub>
+> ####  [**_LLM-Robot-Agent_**](https://github.com/ddxng5/LLM-Robot-Agent) <sub><sup>2026.06 – 2026.07</sup></sub>
   LLM이 판단하고 코드가 실행하는 큐브 분류 로봇 에이전트 <sub>· 팀 워크숍, Level 0 에이전트 담당</sub>
 
 > ####  [**_Smart Car Garage_**](https://github.com/ddxng5/smartcargarage) <sub><sup>2025.09 – 2025.12</sup></sub>
