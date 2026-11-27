@@ -32,8 +32,12 @@
 <br>
 
 ## 🏆 Achievements
-<!-- TODO: 날짜를 알면 [YYYY.MM.DD] 형식으로 앞에 붙여 주세요 -->
-- 싱가포르 AI·SW 산학연계 해외연수 최종발표 **3위**
+<!-- TODO: 오픈소스개발자대회 날짜를 알면 [YYYY.MM.DD] 형식으로 앞에 붙여 주세요 -->
+- <details>
+  <summary>[2026.07.06] 싱가포르 AI·SW 산학연계 해외연수 최종발표 <strong>3위</strong></summary>
+  <img src="./assets/award-singapore-2026.jpg" width="300px">
+  </details>
+
 - 2026 오픈소스개발자대회 **우수작 선정**
 
 <br>
